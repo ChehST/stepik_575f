@@ -1,5 +1,7 @@
 from .base_page import BasePage
 from .locators import MainPageLocators
+
+# links to other page's objects
 from .login_page import LoginPage
 
 class MainPage(BasePage):
