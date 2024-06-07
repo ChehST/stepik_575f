@@ -40,4 +40,6 @@ class ProductPage(BasePage):
         assert self.is_disappeared(*ProductPageLocators.MSG_PRD), \
         "Message disappearces, but shouldn't!"
 
+
+
     
