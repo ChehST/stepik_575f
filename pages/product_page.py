@@ -10,7 +10,7 @@ class ProductPage(BasePage):
         # check url
         self.should_be_promo_url()
         self.should_not_be_success_message()
-        # add to cart
+        self.add_the_product_to_cart()
         
         self.should_be_succes_message_on_the_product_add()
         self.should_basket_increased_on_the_products_price_values
