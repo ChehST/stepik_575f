@@ -14,9 +14,9 @@ You need python3 on you host (PATH also must be set up)
 
 _for linux_:
 ```bash
-~ $ git clone "https://github.com/ChehST/stepik_575"
-~ $ cd stepik_575
-~ $ python -m venv .venv
-~ $ source .venv/bin/acivate
-~ $ pip3 install -r requirments.txt
+git clone "https://github.com/ChehST/stepik_575"
+cd stepik_575
+python -m venv .venv
+source .venv/bin/activate
+pip3 install -r requirments.txt
 ```
