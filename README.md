@@ -5,7 +5,9 @@ Special repo for this course
 [link to course](https://stepik.org/course/575/syllabus)
 
 ## Lesson 4
-
+Final pet project with automate testing!
+It shows selenium and pytest skills, please review it ant write your comments here!
+thank you! ^_^
 
 **Prerequisites::**
 You need python3 on you host (PATH also must be set up)
